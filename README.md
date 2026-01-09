@@ -14,7 +14,5 @@
 
 <p>It is a work in progress, please excuse the mess while I finish it up! Thank you!</p>
 
-![Github Stats](https://greptile-stats.vercel.app/api/widget/SarahMMoore/stats)
-![Github Quirk](https://greptile-stats.vercel.app/api/widget/SarahMMoore/quirk)
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
