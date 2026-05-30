@@ -1,3 +1,7 @@
+<a href="https://morriganpowers.com" target="_blank">
+  <img src="./banner.png" alt="Sarah Moore - Full-Stack Developer & UX Engineer" width="100%">
+</a>
+
 # Hi there, I'm Sarah Moore! 👋
 
 I am a **Full-Stack Developer & UX Engineer** studying Graphic Information Technology (Full-Stack Web Development) at **Arizona State University**, with a deep focus on **Human-Centered AI Engineering**. I specialize in bridging the gap between robust software backends, intelligent models, and clean, accessible user experiences.
