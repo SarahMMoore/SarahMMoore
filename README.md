@@ -3,7 +3,7 @@
 
 # Hi, I'm Sarah Morrigan Moore 👋
 
-### Full-Stack Developer & Graphic Information Technology Honors Student at ASU
+### Full-Stack Developer & Graphic Information Technology Student at ASU (GPA: 3.98)
 
 An analytical programmer specializing in full-stack engineering, combining deep roots in logic-based programming with a human-centered design approach. Leverages over 20 years of multifaceted professional experience in legal operations, corporate tax infrastructure, and complex database management to build secure, scalable, and highly optimized web applications.
 
@@ -11,10 +11,10 @@ An analytical programmer specializing in full-stack engineering, combining deep 
 
 ### 🎓 Academic Profile
 
-* **Arizona State University** | BS/MS Accelerated Program in Graphic Information Technology (Expected 2027)
+* **Arizona State University** | Bachelor of Science Program in Graphic Information Technology (Expected 2027)
 * **Concentration:** Full-Stack Web Development
-* **GPA:** 3.98 | Consecutive Dean's List Honors
-* **Illinois College** | Coursework in Computer Science & Strategic Communication (Dean's List)
+* **GPA:** 3.98 | Dean's List
+* **Illinois College** | Coursework in Computer Science, Organizational & Strategic Communication, Accounting and Art & Design (Dean's List)
 * **Indian River State College** | Associate of Arts in Accounting (Summa Cum Laude)
 
 ---
@@ -51,19 +51,19 @@ An analytical programmer specializing in full-stack engineering, combining deep 
 
 ### 💼 Professional Operations Highlights
 
-* **Data Scale Engineering:** Architected a high-scale, automated utility billing management platform in Excel utilizing over 100 integrated, relational sheets [1].
-* **System Compliance & Auditing:** Over two decades managing digital binders, finalized civil engineering audit reporting, and specialized database files under strict legal and financial frameworks [1].
-* **Logistics Management:** Managed full-lifecycle logistics, system transitions, and cross-state operational infrastructure moving across 25 states [1].
+* **Data Scale Engineering:** Architected a high-scale, automated utility billing management platform in Excel utilizing over 100 integrated, relational sheets.
+* **System Compliance & Auditing:** Over two decades managing digital binders, finalized civil engineering audit reporting, and specialized database files under strict legal and financial frameworks.
+* **Logistics Management:** Managed full-lifecycle logistics, system transitions, and cross-state operational infrastructure moving across 25 states.
 
 ---
 
 ### 🚉 Regional Availability
-Based in **Carlinville, IL**, I am actively seeking **remote** engineering, QA testing, or technical operations roles within the **Chicago** and **St. Louis** ecosystems. Located steps from the local Amtrak line, I am fully available for regular hybrid travel into regional office hubs for on-site collaboration, workshops, or deployment cycles.
+Based in **Carlinville, IL**, I am actively seeking **remote or hybrid** engineering, QA testing, or technical operations roles within the **Chicago** and **St. Louis** ecosystems. Located steps from the local Amtrak line, I am fully available for regular hybrid travel into regional office hubs for on-site collaboration, workshops, or deployment cycles.
 
 ---
 
 ### 📫 Let's Connect
 
-* 💼 **LinkedIn:** [LinkedIn Profile](https://linkedin.com)
+* 💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/morrigan-powers-dev/)
 * 📧 **Email:** sarahmorrigan.si@gmail.com
 * 🌐 **Portfolio:** [morriganpowers.com](https://morriganpowers.com)
