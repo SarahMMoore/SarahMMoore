@@ -2,39 +2,55 @@
   <img src="./banner.png"alt="Sarah Moore - Full-Stack Developer & UX Engineer" width="100%">
 </a>
 
-# Hi there, I'm Sarah Moore! 👋
+# Hi, I'm Sarah Morrigan Moore 👋
 
-I am a **Full-Stack Developer & UX Engineer** studying Graphic Information Technology (Full-Stack Web Development) at **Arizona State University**, with a deep focus on **Human-Centered AI Engineering**. I specialize in bridging the gap between robust software backends, intelligent models, and clean, accessible user experiences.
-
----
-
-### 🚀 Technical Focus
-- 🌐 **Full-Stack Engineering:** Developing modern, responsive web architectures with seamless backend and API integration.
-- 🧠 **Human-Centered AI:** Designing intelligent systems focused on user interaction, interface clarity, and accessibility.
-- 🎨 **Visual Systems:** Utilizing design systems, typography, and interactive components to create polished digital products.
-
-### 🛠️ Tech Stack & Toolkit
-- **Frontend / UX:** HTML5, CSS3, JavaScript, Responsive Web Design, Figma, Adobe Creative Cloud
-- **Backend / AI:** Python, Node.js, SQL, RESTful APIs
-- **Tools & Platforms:** Git, GitHub, Vercel
+### Full-Stack Developer & Graphic Information Technology Honors Student at ASU
+An analytical programmer specializing in full-stack engineering, combining deep roots in logic-based programming with a human-centered design approach. Leverages over 20 years of multifaceted professional experience in legal operations, corporate tax infrastructure, and complex database management to build secure, scalable, and highly optimized web applications.
 
 ---
 
-### 📂 Featured Projects
-*   **[Portfolio Website](https://morriganpowers.com):** My central professional portfolio highlighting my latest full-stack developments, designs, and interactive elements.
-*   **[The Camper](https://thecamperaguidetorvliving.com/):** A comprehensive guide and blogging platform dedicated to full-time RV living infrastructure and travel resources.
+### 🎓 Academic Profile
+* **Arizona State University** | BS/MS Accelerated Program in Graphic Information Technology (Expected 2027)
+  * **Concentration:** Full-Stack Web Development 
+  * **GPA:** 3.98 | Consecutive Dean's List Honors
+* **Illinois College** | Coursework in Computer Science & Strategic Communication (Dean's List)
+* **Indian River State College** | Associate of Arts in Accounting (Summa Cum Laude)
 
 ---
 
-### 🌱 My Journey & Backstory
-After a successful career as an Office Administrator in the financial sector, I stepped away in 2019 to travel full-time across the US in an RV. Immersing myself in new environments sparked a deep fascination with how people interact with technology remotely. 
+### 🛠️ Technical Toolkit
 
-This inspired me to return to academia to pursue software creation. I started my academic transition at Illinois College and later transferred to Arizona State University to specialize in Graphic Information Technology. My background gives me a unique advantage: I combine the organizational structure of an office admin, the adaptability of a full-time traveler, and the technical skill of a modern full-stack developer.
+
+| Category | Technologies, Tools, & Frameworks |
+| :--- | :--- |
+| **Languages & Scripting** | `Python` `Java` `SQL` `HTML5` `CSS3` `C++` `Visual Basic` |
+| **Development Tools** | `VS Code` `GitHub` `GitHub Desktop` `CodePen` `WordPress` `Anaconda` `Spyder` `Eclipse` |
+| **Database & Modeling** | `MS SQL` `Dbdiagram.io` `Draw.io` `ERD Plus` `Eraser AI` `MS ODBC for SQL` |
+| **Design & Media Production** | `Photoshop` `Illustrator` `InDesign` `Premiere Pro` `Lightroom Classic` `Acrobat Pro` `Adobe Bridge` |
+| **Enterprise Data & Finance** | `Advanced MS Excel (VBA/Macros)` `Google Workspace` `SharePoint` `CCH Axcess` `UltraTax CS` |
+| **Collaboration Platforms** | `Canvas` `Miro` `Slack` `Discord` `Zoom` |
 
 ---
 
-### 📫 Connect with Me
-- 🌐 **Portfolio:** [morriganpowers.com](https://morriganpowers.com)
-- 🚐 **Personal Blog:** [thecamperaguidetorvliving.com](https://thecamperaguidetorvliving.com/)
-- 📧 **Personal Email:** saramorrigan.s@gmail.com
-- 🎓 **School Email:** smmoor24@asu.edu
+### 🚀 Featured Development & Design Projects
+
+*   **[Project Name](https://github.com)**  
+    *A brief description of a full-stack web application or database solution you engineered. Highlight the core problem it solves.*
+    * **Tech Stack:** `Python` | `SQL` | `HTML5` | `CSS3`
+*   **[Project Name](https://github.com)**  
+    *A description of an interaction design, user interface prototyping, or data automation pipeline project.*
+    * **Tech Stack:** `Java` | `Advanced Excel Data Modeling` | `UI Design`
+
+---
+
+### 💼 Professional Operations Highlights
+* **Data Scale Engineering:** Architected a high-scale, automated utility billing management platform in Excel utilizing over 100 integrated, relational sheets [1].
+* **System Compliance & Auditing:** Over two decades managing digital binders, finalized civil engineering audit reporting, and specialized database files under strict legal and financial frameworks [1].
+* **Logistics Management:** Managed full-lifecycle logistics, system transitions, and cross-state operational infrastructure moving across 25 states [1].
+
+---
+
+### 📫 Let's Connect
+* 💼 **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/morrigan-powers-dev/)
+* 📧 **Email:** sarahmorrigan.si@gmail.com
+* 🌐 **Portfolio:** www.morriganpowers.com
