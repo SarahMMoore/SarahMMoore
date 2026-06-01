@@ -35,7 +35,7 @@ An analytical programmer specializing in full-stack engineering, combining deep 
 
 ### 🚀 Featured Development & Design Projects
 
-* **[Pizza Ordering System - Relational Database Architecture]**
+* **Pizza Ordering System - Relational Database Architecture**
   * *Designed and deployed a structural relational database system from the ground up. Engineered complete Entity-Relationship Diagrams (ERDs) and schema models, mapping strict primary/foreign key data relationships. Developed raw SQL deployment scripts to create tables, handle relational data constraints, and execute multi-table structural queries.*
   * **Tech Stack:** `SQL` | `MS SQL Server` | `Database Design & Relational Modeling` | `ERD Mapping`
 
