@@ -12,10 +12,10 @@ An analytical programmer specializing in full-stack engineering, combining deep 
 ### 🎓 Academic Profile
 
 * **Arizona State University** | Bachelor of Science Program in Graphic Information Technology (Expected 2027)
-* **Concentration:** Full-Stack Web Development
-* **GPA:** 3.98 | Dean's List
-* **Illinois College** | Coursework in Computer Science, Organizational & Strategic Communication, Accounting and Art & Design (Dean's List)
-* **Indian River State College** | Associate of Arts in Accounting (Summa Cum Laude)
+* **Concentration:** Full-Stack Web Development | Minor: Media Content Creation
+* **GPA:** 3.98 | Honor: Dean's List
+* **Illinois College** | Coursework in Computer Science, Organizational & Strategic Communication, Accounting and Art & Design | Honor: Dean's List
+* **Indian River State College** | Associate of Arts in Accounting | Honor: Summa Cum Laude
 
 ---
 
@@ -35,24 +35,24 @@ An analytical programmer specializing in full-stack engineering, combining deep 
 
 ### 🚀 Featured Development & Design Projects
 
-* **[Responsive Web Portfolio & Content Framework](https://github.com)**
+* **[Pizza Ordering System - Relational Database Architecture]**
+  * *Designed and deployed a structural relational database system from the ground up. Engineered complete Entity-Relationship Diagrams (ERDs) and schema models, mapping strict primary/foreign key data relationships. Developed raw SQL deployment scripts to create tables, handle relational data constraints, and execute multi-table structural queries.*
+  * **Tech Stack:** `SQL` | `MS SQL Server` | `Database Design & Relational Modeling` | `ERD Mapping`
+
+* **[Stock Portfolio Application](https://github.com/stockPortfolioApplication)**
+  * *Engineered an object-oriented Java application simulating real-world brokerage account logic. Designed modular state-management functions handling data tracking for cash deposits, withdrawals, real-time stock purchases, and sales, backed by an automated transactional tracking history.*
+  * **Tech Stack:** `Java` | `Object-Oriented Programming` | `Data Verification` | `Eclipse`
+
+* **[Responsive Web Portfolio & Content Framework](https://morriganpowers.com)**
   * *Designed and engineered a semantic, accessible web architecture to serve as a central hub for digital media and development assets. Focused heavily on high-contrast UI layouts, asset performance optimization using Adobe Creative Cloud, and cross-device media rendering.*
   * **Tech Stack:** `HTML5` | `CSS3` | `VS Code` | `GitHub Pages`
-
-* **[Relational Database Schema & Logic Model](https://github.com)**
-  * *Developed data logic frameworks and entity-relationship diagrams (ERDs) simulating enterprise systems. Modeled data dependencies, primary/foreign key tracking, and relational schemas built to handle structural data constraints seamlessly.*
-  * **Tech Stack:** `Python` | `Dbdiagram.io` | `ERD Plus` | `Logic Modeling`
-
-* **[Automated Multi-Tenant Utility Billing Engine](https://github.com)**
-  * *Engineered a massive, automated relational macro data infrastructure containing over 100 integrated sheets. Built to resolve a high-volume tracking problem for a commercial utility, transforming fragmented readings into automated calculation, reporting, and client invoicing pipelines.*
-  * **Tech Stack:** `Advanced MS Excel` | `VBA / Macros` | `Data Architecture` | `System Testing`
 
 ---
 
 ### 💼 Professional Operations Highlights
 
 * **Data Scale Engineering:** Architected a high-scale, automated utility billing management platform in Excel utilizing over 100 integrated, relational sheets.
-* **System Compliance & Auditing:** Over two decades managing digital binders, finalized civil engineering audit reporting, and specialized database files under strict legal and financial frameworks.
+* **System Compliance & Auditing:** Managed digital binders, finalized civil engineering audit reporting, and specialized database files under strict legal and financial frameworks.
 * **Logistics Management:** Managed full-lifecycle logistics, system transitions, and cross-state operational infrastructure moving across 25 states.
 
 ---
