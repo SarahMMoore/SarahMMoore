@@ -1,6 +1,5 @@
-<a href="https://morriganpowers.com" target="_blank">
-  <img src="./banner.png"alt="Sarah Moore - Full-Stack Developer & UX Engineer" width="100%">
-</a>
+<img width="1280" height="320" alt="banner" src="https://github.com/user-attachments/assets/acc517df-0490-4d32-9874-05daeb8c44f3" />
+
 
 # Hi, I'm Sarah Morrigan Moore 👋
 
