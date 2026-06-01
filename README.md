@@ -1,4 +1,6 @@
-<img width="1280" height="320" alt="banner" src="https://github.com/user-attachments/assets/bf2998e9-566a-4002-87de-a5cfacb4dc72" />
+
+<img width="1280" height="320" alt="banner" src="https://github.com/user-attachments/assets/3e69f2d2-c60d-4675-a609-21c39ee043e3" />
+
 
 
 # Hi, I'm Sarah Morrigan Moore 👋
